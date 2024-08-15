@@ -1,4 +1,3 @@
-# troyan_payload
 # Troyan Payload Generator
 
 Este repositorio contiene una herramienta creada por [Dark_sac](https://github.com/darksac43) que permite generar payloads maliciosos cifrados en Python. La herramienta genera un archivo ejecutable que se conecta de vuelta a una dirección IP y un puerto especificados, lo que permite obtener acceso remoto a la máquina objetivo.
