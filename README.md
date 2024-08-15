@@ -20,7 +20,10 @@ Este repositorio contiene una herramienta creada por [Dark_sac](https://github.c
 
 2. **Instala las dependencias necesarias:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r cryptography
+    pip install -r requests
+    pip install -r pyinstaller
+
     ```
 
 3. **Genera un payload:**
