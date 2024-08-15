@@ -19,9 +19,9 @@ Este repositorio contiene una herramienta creada por [Dark_sac](https://github.c
 
 2. **Instala las dependencias necesarias:**
     ```bash
-    pip install -r cryptography
-    pip install -r requests
-    pip install -r pyinstaller
+    pip install cryptography
+    pip install requests
+    pip install pyinstaller
 
     ```
 
